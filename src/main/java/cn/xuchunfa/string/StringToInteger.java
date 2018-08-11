@@ -2,30 +2,6 @@ package cn.xuchunfa.string;
 
 public class StringToInteger {
 
-
-    public static void main(String[] args) {
-        String s = "";
-        //String s = "";
-        //String s = "123aaa";
-        //String s = "2147483647";
-        //String s = "2147483648";
-        //String s = "2147483641222";
-        //String s = "21474";
-        //String s = "-1";
-        //String s = "-2147483648";
-        //String s = "-2147483649";
-        //String s = "-2147483641";
-
-        System.out.println(StringToInteger.vary(s));
-    }
-
-    /*
-     * @Description:字符串转成整型(默认10进制)
-     * @Param:
-     * @return:
-     * @Author: Xu chunfa
-     * @Date: 2018/7/12
-     */
     public static int vary(String s) {
 
         int i = 0;
@@ -95,10 +71,23 @@ public class StringToInteger {
                 i++;
             }
         }
-
         //结束 if(len > 0)
         return negative ? result : -result;
     }
 
+    public static void main(String[] args) {
+        String s = "";
+        //String s = "";
+        //String s = "123aaa";
+        //String s = "2147483647";
+        //String s = "2147483648";
+        //String s = "2147483641222";
+        //String s = "21474";
+        //String s = "-1";
+        //String s = "-2147483648";
+        //String s = "-2147483649";
+        //String s = "-2147483641";
 
+        System.out.println(StringToInteger.vary(s));
+    }
 }

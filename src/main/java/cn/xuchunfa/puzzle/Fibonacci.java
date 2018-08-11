@@ -20,6 +20,7 @@ public class Fibonacci {
 
     }
 
+    //时间复杂度O(n)
     public static long fibonacci(int n){
 
         if(n == 0)
@@ -41,6 +42,6 @@ public class Fibonacci {
     }
 
     public static void main(String[] args){
-        System.out.println(Fibonacci.fibonacci1(50));
+        System.out.println(Fibonacci.fibonacci(10));
     }
 }
