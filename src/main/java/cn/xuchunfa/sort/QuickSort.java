@@ -59,7 +59,7 @@ public class QuickSort {
                 j--;
             }
 
-            //a[i] = a[j];
+            //a[i] = a[j];//这种写法时条件不能为a[j] > pivot必须要 >=
             swap(a,i,j);
 
             while (i < j && a[i] <= pivot){

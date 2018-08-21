@@ -9,7 +9,7 @@ import java.util.Arrays;
  **/
 public class MergeSortedArray {
 
-    //时间复杂度(O(n)) 空间复杂度(O(n))
+    //时间复杂度(O(n)) 空间复杂度(O(n)) 通过归并实现
     public static int[] merge(int[] a,int[] b){
 
         if(a==null || b==null){
@@ -26,32 +26,31 @@ public class MergeSortedArray {
         int len2 = b.length;
 
         int[] c = new int[len1+len2];
-        int i = len1 - 1;
-        int j = len2 - 1;
+        int i = 0;
+        int j = 0;
 
-        while(i >= 0 && j >= 0){
-            if(a[i] > b[j]){
-                c[i+j+1] = a[i];
-                i--;
+        while(i < len1 && j < len2){//归并的思想
+            if(a[i] < b[j]){
+                c[i+j] = a[i];
+                i++;
             }else{
-                c[i+j+1] = b[j];
-                j--;
+                c[i+j] = b[j];
+                j++;
             }
         }
 
-        while (i >= 0){
+        while (i < len1){
             c[i+j+1] = a[i];
-            i--;
+            i++;
         }
 
-        while(j >= 0){
-            c[i+j+1] = b[j];
-            j--;
+        while(j < len2){
+            c[i+j] = b[j];
+            j++;
         }
 
         return c;
     }
-
 
     //时间复杂度(O(n)) 空间复杂度(O(1)) 直接在第一个数组上操作
     public static void merge1(int[] a,int[] b){
@@ -66,7 +65,7 @@ public class MergeSortedArray {
         int i = len1 - len2 -1;
         int j = len2 - 1;
 
-        while(i >= 0 && j >= 0){
+        while(i >= 0 && j >= 0){//从数组最后面的元素开始向前比较
             if(a[i] > b[j]){
                 a[i+j+1] = a[i];
                 i--;
@@ -85,8 +84,8 @@ public class MergeSortedArray {
 
     public static void main(String[] args){
 
-        int[] a ={1,1,1};
-        int[] b = {1,1,1,1};
+        int[] a ={1,4,9};
+        int[] b = {2,3,10,16};
         int[] c = new int[a.length+b.length];
 
         c = MergeSortedArray.merge(a,b);

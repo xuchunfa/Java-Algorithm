@@ -63,14 +63,18 @@ public class VerseLinkPrint {
 
         verseRecursive(p.next);
 
-        if(p.next == null){
+        if(p.next == null){//回溯到最后一个结点
             head = p;
             q = p;
+        }else {
+            p.next = null;
+            q.next = p;
+
+
+            q = q.next;
         }
 
-        p.next = null;
-        q.next = p;
-        q = q.next;
+
     }
 
 

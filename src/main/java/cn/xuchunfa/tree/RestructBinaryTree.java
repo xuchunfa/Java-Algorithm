@@ -14,7 +14,7 @@ public class RestructBinaryTree {
 
         if(pre == null || in == null || pre.length <= 0 || in.length <= 0){
             throw new RuntimeException("序列数组长度需大于0");
-        }
+    }
 
         if(preEnd < preStart || inEnd < inStart){
             return null;

@@ -11,7 +11,7 @@ import java.util.List;
  **/
 public class Link {
 
-    private ListNode head;
+    ListNode head;
 
     //添加链表节点
     public void add(int data){
@@ -37,40 +37,33 @@ public class Link {
     //链表中的倒数第 K 个结点
     public ListNode FindKthToTail(ListNode head,int k){
 
-        int len = 0;
-        int i = 0;
-        ListNode counter = head;
         ListNode p = head;
         ListNode pre = head;
 
         if(k <= 0){
-            System.out.println("请输入自然数k！");
-            //-1代表非正常退出
-            System.exit(-1);
+            throw new RuntimeException("请输入自然数k！");
         }
 
         if(head == null) {
-            System.out.println("链表不能为空！");
-            System.exit(-1);
+            throw new RuntimeException("链表不能为空！");
         }
 
-        while(counter != null){
-            len++;
-            counter = counter.next;
+        //遍历了两遍效率不高
+        //while(counter != null){
+        //    len++;
+        //    counter = counter.next;
+        //}
+
+
+        for(int i = 0;i < k;i++){
+            if(pre != null){//先走k步
+                pre = pre.next;
+            }else {
+                throw new RuntimeException("k值大于了链表长度");
+            }
         }
 
-        if(k > len){
-            System.out.println("k值大于了链表长度！");
-            System.exit(-1);
-        }
-
-        //先走k步
-        while (i < k){
-            pre = pre.next;
-            i++;
-        }
-
-        while (pre != null){
+        while (pre != null){//pre == null 时p指针指向倒数第k个结点
             p = p.next;
             pre = pre.next;
         }
@@ -86,7 +79,7 @@ public class Link {
         link.add(3);
         link.print();
 
-        ListNode node = link.FindKthToTail(link.head,2);
+        ListNode node = link.FindKthToTail(link.head,1);
         node.next = null;
         node.printNode();
 
