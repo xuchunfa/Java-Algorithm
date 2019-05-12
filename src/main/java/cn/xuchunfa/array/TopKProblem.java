@@ -64,7 +64,6 @@ public class TopKProblem {
                 break;
             }
         }
-
         //找到最终位置
         a[i] = father;
     }
@@ -80,7 +79,5 @@ public class TopKProblem {
         System.out.println(Arrays.toString(num));
 
         System.out.println(Arrays.toString(createKtopHeap(num,5)));
-
     }
-
 }

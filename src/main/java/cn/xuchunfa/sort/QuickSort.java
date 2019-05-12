@@ -1,42 +1,15 @@
 package cn.xuchunfa.sort;
 
 import java.util.Arrays;
+import java.util.Random;
 import java.util.jar.JarEntry;
 
 /**
- * @description: 快排(交换排序)
+ * @description: 随机化版本的快排(交换排序)
  * @author: Xu chunfa
  * @create: 2018-07-27 22:45
  **/
 public class QuickSort {
-
-    //时间复杂度:O(n2) 不算快排
-    public static void quickSort1(int[] array){
-        int i = 0;
-        int j;
-        int length = array.length;
-
-        if(array == null){
-            throw new RuntimeException("输入数组");
-        }
-
-        if(length <= 1){
-            return;
-        }
-
-        while(i < length){
-            j = i + 1;
-            while (j<length){
-                if(array[j] <= array[i]){
-                    int temp = array[i];
-                    array[i] = array[j];
-                    array[j] = temp;
-                }
-                j++;
-            }
-        i++;
-    }
-    }
 
     public static void swap(int[] a,int i,int j){
         int temp;
@@ -50,10 +23,13 @@ public class QuickSort {
             throw new RuntimeException("参数不合法");
         }
 
+        //轴值在[start,end]区间内随机生成,然后把轴值交换到数组中第一位
+        rand_pivot(a,start,end);
 
-        int pivot = a[start];
         int i = start;
         int j = end;
+        int pivot = a[start];
+
         while (i < j){
             while (i < j && a[j] >= pivot){
                 j--;
@@ -74,6 +50,36 @@ public class QuickSort {
         //a[i] = pivot;
 
         return i;
+    }
+
+    public static int versePartition(int[] a,int start,int end){
+        int i = start;
+        int j = end;
+        int pivot = a[start];
+        while (i < j){
+            while (i < j && a[j] <= pivot){
+                j--;
+            }
+            a[i] = a[j];
+            while (i < j && a[i] >= pivot){
+                i++;
+            }
+            a[j] = a[i];
+        }
+        a[i] = pivot;
+        return i;
+    }
+
+
+    //随机化的选择主元
+    private static void rand_pivot(int[] a, int start, int end) {
+        Random random = new Random();
+        int rand = start + random.nextInt(end - start + 1);//随机函数生成的整数区间在[0,length)
+
+        //交换第一个数和随机选出来的数
+        int temp = a[start];
+        a[start] = a[rand];
+        a[rand] = temp;
     }
 
     public static void quickSort(int[] a,int start,int end){

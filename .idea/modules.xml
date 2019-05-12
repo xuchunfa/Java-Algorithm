@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllTest/AllTest.iml" filepath="$PROJECT_DIR$/AllTest/AllTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examination/Examination.iml" filepath="$PROJECT_DIR$/Examination/Examination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaVM/JavaVM.iml" filepath="$PROJECT_DIR$/JavaVM/JavaVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Myconcurrency/Myconcurrency.iml" filepath="$PROJECT_DIR$/Myconcurrency/Myconcurrency.iml" />
     </modules>
   </component>
 </project>

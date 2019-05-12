@@ -1,5 +1,10 @@
 package cn.xuchunfa.tree;
 
+import cn.xuchunfa.javapattern.observer.PublicMessage;
+
+import java.sql.Statement;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Random;
 import java.util.Stack;
 
@@ -75,13 +80,28 @@ public class BinaryTree {
                 stack.push(p);
                 p = p.left;
             }
-
             if(!stack.isEmpty()){
                 p = stack.pop();
                 p = p.right;
             }
         }
+    }
 
+    public void iterativePreOrder(BinaryTreeNode p){
+        Stack<BinaryTreeNode> stack = new Stack<>();
+        if(p != null){
+            stack.push(p);
+        }
+        while (!stack.isEmpty()){
+            BinaryTreeNode q = stack.pop();
+            System.out.print(q.data + " ");
+            if(q.right != null){
+                stack.push(q.right);
+            }
+            if(q.left != null){
+                stack.push(q.left);
+            }
+        }
     }
 
     //中序遍历,递归实现
@@ -157,6 +177,117 @@ public class BinaryTree {
         }
     }
 
+    //后续遍历迭代实现
+    public void iterativePostOrder(BinaryTreeNode p){
+        Stack<BinaryTreeNode> s = new Stack<BinaryTreeNode>();
+        while (true){
+            while (p != null){
+                s.push(p);
+                s.push(p);
+                p = p.left;
+            }
+            if(s.isEmpty())
+                return;
+            p = s.pop();
+            if(!s.isEmpty() && p == s.peek()){
+                p = p.right;
+            }else {
+                System.out.print(p.data + " ");
+                p = null;
+            }
+        }
+    }
+
+    //后续遍历的倒序方法
+    public void reversePostOrder(BinaryTreeNode p){
+        Stack<BinaryTreeNode> s = new Stack<BinaryTreeNode>();
+        Stack<BinaryTreeNode> result = new Stack<>();
+        if(p != null){
+            s.push(p);
+        }
+        while (!s.isEmpty()){
+            p = s.pop();
+            //System.out.print(p.data + " ");
+            result.push(p);
+            if(p.left != null){
+                s.push(p.left);
+            }
+            if(p.right != null){
+                s.push(p.right);
+            }
+        }
+
+        while (!result.isEmpty()){
+            System.out.print(result.pop().data + " ");
+        }
+    }
+
+    //队列实现层次遍历
+    public void levelOrder(BinaryTreeNode p){
+        Queue<BinaryTreeNode> queue = new LinkedList<>();
+        if(p != null){
+            queue.offer(p);
+        }
+        int level = 0;
+        while (!queue.isEmpty()){
+            int queueSize = queue.size();
+            for(int i = 0;i < queueSize;i++){//queueSize表示每一层的节点数
+                p = queue.poll();
+                System.out.print(p.data + " ");
+                if(p.left != null){
+                    queue.offer(p.left);
+                }
+                if (p.right != null){
+                    queue.offer(p.right);
+                }
+            }
+            level++;
+            System.out.println();
+        }
+        System.out.println("The max deepth of tree is: " + level);
+    }
+
+    //S型层次遍历
+    public void levelSOrder(BinaryTreeNode p){
+        Stack<BinaryTreeNode> stack1 = new Stack<>();
+        Stack<BinaryTreeNode> stack2 = new Stack<>();
+        int currentLevel = 1;
+        if(p != null){
+            stack1.push(p);
+        }
+
+        while(!stack1.isEmpty() || !stack2.isEmpty()){
+            int levelNumber = !stack1.isEmpty()?stack1.size():stack2.size();
+            for(int i = 0;i < levelNumber;i++){
+                if((currentLevel & 1) == 1){
+                    p = stack1.pop();
+                    System.out.print(p.data + " ");
+                    if(p.right != null){
+                        stack2.push(p.right);
+                    }
+                    if(p.left != null){
+                        stack2.push(p.left);
+                    }
+                    if(stack1.empty()){
+                        currentLevel++;
+                    }
+                }else {
+                    p = stack2.pop();
+                    System.out.print(p.data + " ");
+                    if(p.left != null){
+                        stack1.push(p.left);
+                    }
+                    if(p.right != null){
+                        stack1.push(p.right);
+                    }
+                    if(stack2.empty()){
+                        currentLevel++;
+                    }
+                }
+            }
+            System.out.println();
+        }
+    }
 
     public static void main(String[] args){
         BinaryTree bt = new BinaryTree();
@@ -164,7 +295,7 @@ public class BinaryTree {
 
         //10个结点
         for(int i = 0;i<6;i++){
-            bt.createBinaryTree(bt.root,random.nextInt(10));
+            bt.createBinaryTree(bt.root,random.nextInt(20));
         }
         /*bt.createBinaryTree(bt.root,3);
         bt.createBinaryTree(bt.root,7);
@@ -173,9 +304,11 @@ public class BinaryTree {
         bt.createBinaryTree(bt.root,4);
         bt.createBinaryTree(bt.root,2);*/
 
-        bt.postOrder(bt.root);
+        bt.preOrder(bt.root);
         System.out.println();
-        bt.cyclePostOrder(bt.root);
+        bt.inOrder(bt.root);
+        System.out.println();
+        bt.levelOrder(bt.root);
 
         //bt.inOrder(bt.root);
         //System.out.println();

@@ -7,6 +7,27 @@ package cn.xuchunfa.linkedlist;
  **/
 public class FindMiddleNode {
 
+    //简单明了
+    public static ListNode find1(ListNode head){
+       if(head == null){
+           return null;
+       }
+
+       if(head.next == null){
+           return head;
+       }
+
+       ListNode slow = head;
+       ListNode fast = head.next;
+
+       while (fast != null && fast.next != null){
+           slow = slow.next;
+           fast = fast.next.next;//fast指针走两步
+       }
+
+       return slow;
+    }
+
     public static ListNode find(ListNode head){
         ListNode pre,p;
         pre = head;
@@ -32,8 +53,7 @@ public class FindMiddleNode {
         link.add(2);
         link.add(3);
         link.add(4);
-        link.add(5);
-        System.out.println(FindMiddleNode.find(link.head).data);
+        System.out.println(FindMiddleNode.find1(link.head).data);
 
     }
 

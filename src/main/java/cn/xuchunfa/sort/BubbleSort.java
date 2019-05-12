@@ -7,6 +7,16 @@ import java.util.Arrays;
  * @author: Xu chunfa
  * @create: 2018-07-28 19:24
  **/
+
+/*
+ *  时间复杂度：
+ *    最好：O(n)
+ *    最坏：O(n^2)
+ *  空间复杂度：
+ *    O(1)
+ *  稳定性：
+ *    稳定
+ * */
 public class BubbleSort {
 
     public static void bubbleSort(int[] a){
@@ -30,7 +40,7 @@ public class BubbleSort {
                     swapFlag = true;
                 }
             }
-
+            //最好情况下时间复杂度:O(n)
             if (!swapFlag)
                 break;
         }

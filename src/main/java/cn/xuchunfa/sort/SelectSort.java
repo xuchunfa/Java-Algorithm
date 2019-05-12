@@ -7,6 +7,16 @@ import java.util.Arrays;
  * @author: Xu chunfa
  * @create: 2018-07-28 19:22
  **/
+
+/*
+ *  时间复杂度：
+ *    最好：O(n2)
+ *    最坏：O(n2)
+ *  空间复杂度：
+ *    O(1)
+ *  稳定性：
+ *    不稳定
+ * */
 public class SelectSort {
 
     public static void selectSort(int[] a){
@@ -19,10 +29,10 @@ public class SelectSort {
 
             for(int j = i+1;j<a.length;j++)
             {
-                if(a[i] > a[j]){
-                    int temp = a[i];
-                    a[i] = a[j];
-                    a[j] = temp;
+                if(a[i] > a[j]){//减少空间复杂度
+                    a[j] = a[i] + a[j];
+                    a[i] = a[j] - a[i];
+                    a[j] = a[j] - a[i];
                 }
             }
         }
@@ -30,7 +40,7 @@ public class SelectSort {
 
     public static void main(String[] args){
         int[] a = {6,3,5,1,9,12,2,8,8,-1};
-        BubbleSort.bubbleSort(a);
+        SelectSort.selectSort(a);
         System.out.println(Arrays.toString(a));
     }
 

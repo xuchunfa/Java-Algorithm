@@ -7,6 +7,16 @@ import java.util.Arrays;
  * @author: Xu chunfa
  * @create: 2018-07-28 19:21
  **/
+/*
+ *  时间复杂度：
+ *    最好：O(n(logn)^2)
+ *    最坏：O(n(logn)^2)
+ *    平均：O(nlogn)
+ *  空间复杂度：
+ *    O(1)
+ *  稳定性：
+ *    不稳定
+ * */
 public class ShellSort {
 
     public static void shellSort(int[] a){
@@ -33,14 +43,12 @@ public class ShellSort {
             for(int i = increment;i<a.length;i++){
                 int j = i;
                 int temp = a[j];
-
-                //直接插入
-                while(j-increment >= 0 && a[j-increment] > temp){
+                for(;j-increment>=0&&a[j-increment] > temp;j-=increment){
                     a[j] = a[j-increment];
-                    j -= increment;
                 }
                 a[j] = temp;
             }
+
         }
     }
     

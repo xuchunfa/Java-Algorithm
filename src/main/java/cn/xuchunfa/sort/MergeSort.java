@@ -7,6 +7,17 @@ import java.util.Arrays;
  * @author: Xu chunfa
  * @create: 2018-07-28 19:24
  **/
+
+/*
+ *  时间复杂度：(不依赖数据分布)
+ *    最好：O(nlogn)
+ *    最坏：O(nlogn)
+ *    平均：O(nlogn)
+ *  空间复杂度：
+ *    O(n)
+ *  稳定性：
+ *    稳定
+ * */
 public class MergeSort {
 
     //临时数组
@@ -53,17 +64,12 @@ public class MergeSort {
             throw new RuntimeException("越界");
         }
 
-        if(left >= right)
-            return;
-
-        int mid = (left + right)/2;
-
-        //分
-        mergeSort(a,left,mid,temp);
-        mergeSort(a,mid+1,right,temp);
-
-        //治
-        merge(a,left,mid,right,temp);
+        if(left < right){
+            int mid = (left + right)/2;
+            mergeSort(a,left,mid,temp);
+            mergeSort(a,mid+1,right,temp);
+            merge(a,left,mid,right,temp);
+        }
     }
 
     public static void main(String[] args){

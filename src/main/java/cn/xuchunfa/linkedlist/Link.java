@@ -37,8 +37,8 @@ public class Link {
     //链表中的倒数第 K 个结点
     public ListNode FindKthToTail(ListNode head,int k){
 
-        ListNode p = head;
-        ListNode pre = head;
+        ListNode fast = head;
+        ListNode slow = head;
 
         if(k <= 0){
             throw new RuntimeException("请输入自然数k！");
@@ -47,28 +47,28 @@ public class Link {
         if(head == null) {
             throw new RuntimeException("链表不能为空！");
         }
-
-        //遍历了两遍效率不高
-        //while(counter != null){
-        //    len++;
-        //    counter = counter.next;
-        //}
-
-
-        for(int i = 0;i < k;i++){
-            if(pre != null){//先走k步
-                pre = pre.next;
+        int i = 0;
+        while (i < k){
+            if(fast != null){
+                fast = fast.next;
             }else {
                 throw new RuntimeException("k值大于了链表长度");
             }
+            i++;
         }
+        //for(int i = 0;i < k;i++){
+        //    if(fast != null){//先走k步
+        //        fast = fast.next;
+        //    }else {
+        //        throw new RuntimeException("k值大于了链表长度");
+        //    }
+        //}
 
-        while (pre != null){//pre == null 时p指针指向倒数第k个结点
-            p = p.next;
-            pre = pre.next;
+        while (fast != null){//pre == null 时p指针指向倒数第k个结点
+            slow = slow.next;
+            fast = fast.next;
         }
-
-        return p;
+        return slow;
     }
 
     public static void main(String[] args){
@@ -79,7 +79,7 @@ public class Link {
         link.add(3);
         link.print();
 
-        ListNode node = link.FindKthToTail(link.head,1);
+        ListNode node = link.FindKthToTail(link.head,2);
         node.next = null;
         node.printNode();
 

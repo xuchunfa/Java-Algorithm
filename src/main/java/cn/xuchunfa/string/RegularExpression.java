@@ -29,10 +29,15 @@ public class RegularExpression {
         //模式的第二个字符为'*'的情况
         if(patternIndex+1 < patternLen && pattern.charAt(patternIndex + 1) == '*'){//注意边界条件最后一个字符,需要判断条件
             if(strIndex < strLen && str.charAt(strIndex) == pattern.charAt(patternIndex) || strIndex < strLen && pattern.charAt(patternIndex) == '.'){
-                return matchCore(str,pattern,strLen,patternLen,strIndex+1,patternIndex+2) ||
-                        matchCore(str,pattern,strLen,patternLen,strIndex+1,patternIndex) ||
-                        matchCore(str,pattern,strLen,patternLen,strIndex,patternIndex+2);
+
+                //先匹配（包括了 * 匹配0到多个字符的情况）
+                return matchCore(str,pattern,strLen,patternLen,strIndex,patternIndex+2) ||
+                        matchCore(str,pattern,strLen,patternLen,strIndex+1,patternIndex);
+
+
             }else {//字符串匹配完了模式还没匹配完
+
+                //strIndex = strLen 模式中直接跳过 *
                 return matchCore(str,pattern,strLen,patternLen,strIndex,patternIndex+2);
             }
         }
@@ -43,12 +48,13 @@ public class RegularExpression {
         }
 
         //包含了str="ab" pattern="...."的情况了
+        //strIndex = strLen 模式中没有 * 匹配失败
         return false;
     }
 
     public static void main(String[] args){
-        String str = "ab";
-        String pattern = "....";
+        String str = "aab";
+        String pattern = ".*aab";
         int strLen = str.length();
         int patternLen = pattern.length();
         System.out.println(RegularExpression.match(str,pattern,strLen,patternLen,0,0));

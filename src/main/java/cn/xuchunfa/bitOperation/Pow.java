@@ -43,7 +43,7 @@ public class Pow {
             return base;
 
         //位移运算代替除法
-        double result = calPow(base,exp >> 1);
+        double result = calPow(base,exp/2);
         result *= result;
 
         //与运算代替取余
@@ -54,7 +54,42 @@ public class Pow {
         return result;
     }
 
+    //只考虑正数情况
+    public static double iterativeCalPow(double base, int exp){
+        double res = 1;
+        while (exp > 0){
+            if((exp & 1) != 0){
+                res = base*res;
+            }
+            res = res*res;
+            exp = exp >> 1;
+        }
+        return  res;
+    }
+
+    public static double allCalPow(double base, int exp){
+        if(exp == 0)
+            return 1;
+
+        if(exp == 1)
+            return base;
+
+        double result = allCalPow(base,exp/2);
+
+        if((exp & 1) == 0){
+            result *= result;
+        }else {
+            if(exp > 0){
+                result = base*result*result;
+            }else {
+                result = result*result*1/base;
+            }
+        }
+
+        return result;
+    }
+
     public static void main(String[] args){
-        System.out.println(Pow.pow(2,4));
+        System.out.println(Pow.iterativeCalPow(2,6));
     }
 }

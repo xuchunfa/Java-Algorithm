@@ -7,6 +7,17 @@ package cn.xuchunfa.tree;
  **/
 public class MirrorTree {
 
+
+    public void Mirror(BinaryTreeNode root) {
+        if(root == null)
+            return;
+        BinaryTreeNode leftTree = root.left;
+        root.left = root.right;
+        root.right = leftTree;
+        Mirror(root.left);
+        Mirror(root.right);
+    }
+
     public static void mirror(BinaryTreeNode p){
         if(p == null)
             return;

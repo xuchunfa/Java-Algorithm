@@ -7,6 +7,17 @@ import java.util.Arrays;
  * @author: Xu chunfa
  * @create: 2018-07-28 19:23
  **/
+
+/*
+ *  时间复杂度：(不依赖数据分布)
+ *    最好：O(nlogn)
+ *    最坏：O(nlogn)
+ *    平均：O(nlogn)
+ *  空间复杂度：
+ *    O(1)
+ *  稳定性：
+ *    不稳定
+ * */
 public class HeapSort {
 
     public static void heapSort(int[] a){
@@ -19,6 +30,7 @@ public class HeapSort {
         //构建大顶堆
         for(int i = len/2-1;i>=0;i--){
             createHeap(a,i,len);
+            //createMinHeap(a,i,len);
         }
 
         for(int j = a.length-1;j>0;j--){
@@ -26,6 +38,7 @@ public class HeapSort {
 
             //从堆顶开始向下调整,已经取出了最大的堆结点
             createHeap(a,0,j);
+            //createMinHeap(a,0,j);
         }
     }
 
@@ -40,9 +53,9 @@ public class HeapSort {
     public static void createHeap(int[] a,int i,int len) {
 
         int father = a[i];
-        int j;//j代表子结点坐标 i代表父结点坐标
+        int j = 2*i + 1;//j代表子结点坐标 i代表父结点坐标
 
-        while(2*i + 1 < len){//如果i结点在堆顶上的话,需要自顶向下调整
+        while(j < len){//如果i结点在堆顶上的话,需要自顶向下调整
 
             j = 2*i + 1;
 
@@ -55,9 +68,29 @@ public class HeapSort {
             }else {//不用调整的话就不用再向下循环了,子节点都已经调整好了
                 break;
             }
+            j = 2*i+1;
         }
 
         //找到最终位置
+        a[i] = father;
+    }
+
+    //构建小顶堆
+    public static void createMinHeap(int[] a,int i,int length){
+        int father = a[i];
+        int j = 2*i + 1;
+        while (j < length){
+            if(j+1 < length && a[j] > a[j+1]){
+                j++;
+            }
+            if(a[j] < father){
+                a[i] = a[j];
+                i = j;
+            }else {
+                break;
+            }
+            j = 2*i+1;
+        }
         a[i] = father;
     }
 

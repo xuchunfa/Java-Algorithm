@@ -1,7 +1,7 @@
 package cn.xuchunfa.array;
 
 /**
- * @description: 时间复杂度:O(n) 空间复杂度：O(1)
+ * @description: 找到数组中重复的数,数组长度为 n,数组元素为 0~n-1
  * @author: Xu chunfa
  * @create: 2018-07-18 15:45
  **/
@@ -37,6 +37,7 @@ public class OptDuplication {
 
     }
 
+    //时间复杂度O(n) 空间复杂度O(1)
     boolean findDup(int[] nums,int len,int[] duplication){
 
         if(nums == null || len <= 0){

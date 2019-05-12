@@ -2,13 +2,252 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e8b4c36-a41d-4e51-966c-713b898c0cf4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTreeNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/AllTest.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/LRUCache.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/Singleton.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestArrayList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestCollectionDelete.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestLRU.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestLinkedHashMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestReg.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestStringIntern.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestSwapStr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestTreeMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AllTest/src/TestTreeSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/Examination.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/src/CtripTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/src/GbitTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/src/HuaweiTest1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/src/JDTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/src/JDTest2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/src/TentcentTest1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examination/src/TestScanner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaVM/JavaVM.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaVM/src/HappenBefore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaVM/src/SaleTicketSystem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaVM/src/TestJConsole.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaVM/src/UnsafeVolatile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/Myconcurrency.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/CounterLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/CounterSynchronized.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/DeadLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/LockSaleTicketSystem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/MyReentrantLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/ReadWriteLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/SleepUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestAtomicInteger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestCOW.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestCountDownLatch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestCyclicBarrier.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestEndThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestProducerConsumer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestSemaphore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/TestVector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/ThreadCreation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Myconcurrency/src/main/java/ThreadPoolDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/ContinuousPositiveSequence.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/InversePairNum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/KMinNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MaxSubArraySum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/Median.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MedianOpt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MinCombinationNum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MoreThanHalfNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MoveOddFrontEven.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MultiArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/NumberAppearOnce.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/PrintMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/SortedArrayDupTimes.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/SumOfKnumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/TopK.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/JudgePathInMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/RobortRange.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/bitOperation/BiggerNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/bitOperation/BitArithmetic.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/classic/CombineNM.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/classic/CombineSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/classic/JosephCycle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/hashTable/FindDupChar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/adapter/AbsentAdaptee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/adapter/AbsentAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/adapter/Adaptee.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/adapter/Adapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/adapter/ObjectAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/adapter/Target.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/decorator/MyInputStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/decorator/TestMyInputStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/Product.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/ProductA.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/ProductB.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/ProductFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/HUAWEI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/HUAWEI1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/HUAWEI2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/Phone1Factory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/Phone2Factory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/PhoneFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/XIAOMI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/XIAOMI1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/abstractFactory/XIAOMI2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/factoryMethod/ProductAFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/factoryMethod/ProductBFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/factoryMethod/ProductFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/factory/simpleFactory/factoryMethod/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/observer/PublicMessage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/observer/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/observer/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/observer/WeChat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/Animal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/Human.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/InvocationHandlerImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/MainProxy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/PriorHuman.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/dynamicProxy/MyProxy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/staticProxy/ConnectionProxy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/staticProxy/ConnectionProxyAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/staticProxy/DataSource.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/proxy/staticProxy/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/SingletonTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FirstCommonNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/Test1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/MaxValueInWindow.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/NumbersInclude1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/StreamMedian.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/UglyNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/queue/MinStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/queue/StackPushOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/BucketSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/NormalQuickSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/AllPermutation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/BFAlgorithm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/FirstNoDuplicationChar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/JudgeNumric.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/KMPAlgorithm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/MaxDistinctSubString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ReverseWords.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BSTksmallest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BSTlinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/CheckPostOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/CommonAncestor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/IsAVLTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/PostSequence.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/PrintTreeByLevel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/SerializeTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/SumOfTrace.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/TreeUtils.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/Demo.java" afterPath="$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/Demo.java" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" afterPath="$PROJECT_DIR$/Algorithm.iml" />
+      <change beforePath="$PROJECT_DIR$/Concurrency/Concurrency.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/Demo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/MyThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/hashMap/UnsafeHashMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/concurrency/Demo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/concurrency/Demo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/concurrency/MyThread$1.class" afterPath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/concurrency/MyThread$1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/concurrency/MyThread.class" afterPath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/concurrency/MyThread.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/concurrency/People.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/hashMap/UnsafeHashMap$1.class" afterPath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/hashMap/UnsafeHashMap$1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/hashMap/UnsafeHashMap$2.class" afterPath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/hashMap/UnsafeHashMap$2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/hashMap/UnsafeHashMap.class" afterPath="$PROJECT_DIR$/out/production/Concurrency/cn/xuchunfa/hashMap/UnsafeHashMap.class" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/Duplication.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/DuplicationVersion.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/OptDuplication.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/OptDuplication.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/TopKProblem.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/TopKProblem.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/bitOperation/Count1.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/bitOperation/Count1.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/bitOperation/Pow.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/bitOperation/Pow.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/DeleteDuplicationNode.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/DeleteDuplicationNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/EnterCycleNode.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/EnterCycleNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FindMiddleNode.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FindMiddleNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/Link.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/Link.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/MergeSortedLink.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/MergeSortedLink.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/VerseLink.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/VerseLink.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/BubbleSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/CountSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/CountSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/HeapSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/HeapSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/InsertSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/InsertSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/MergeSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/QuickSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/RadixSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/RadixSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/SelectSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/SelectSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/ShellSort.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/ShellSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/RegularExpression.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/RegularExpression.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ReplaceChar.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ReplaceChar.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/StringToInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/StringToInteger.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Demo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Demo1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/IsHasSubtree.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/IsHasSubtree.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/MirrorTree.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/MirrorTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/RestructBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/RestructBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/Duplication.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/DuplicationVersion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/KthBiggestNumber.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/KthBiggestNumber.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/MergeSortedArray.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/MergeSortedArray.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/OptDuplication.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/OptDuplication.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/RotateArray.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/RotateArray.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/SearchIn2Array.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/SearchIn2Array.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/TopKProblem.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/array/TopKProblem.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/backtrack/MatrixPath.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/backtrack/MatrixPath.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/bitOperation/Count1.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/bitOperation/Count1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/bitOperation/Pow.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/bitOperation/Pow.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/dynamicProgram/CutStrip.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/dynamicProgram/CutStrip.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/javapattern/singleton/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/javapattern/singleton/MyThread.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/javapattern/singleton/Singleton.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/javapattern/singleton/Singleton.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/DeleteDuplicationNode.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/DeleteDuplicationNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/DeleteListNode.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/DeleteListNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/EnterCycleNode.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/EnterCycleNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/FindMiddleNode.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/FindMiddleNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/Link.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/Link.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/ListNode.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/ListNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/MergeSortedLink.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/MergeSortedLink.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/VerseLink.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/VerseLink.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/VerseLinkPrint.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/linkedlist/VerseLinkPrint.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/puzzle/Fibonacci.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/puzzle/Fibonacci.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/puzzle/FrogStep.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/puzzle/FrogStep.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/puzzle/ThiefProblem.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/puzzle/ThiefProblem.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/queue/QueueToStack.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/queue/QueueToStack.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/queue/StackToQueue.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/queue/StackToQueue.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/BubbleSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/BubbleSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/CountSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/CountSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/HeapSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/HeapSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/InsertSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/InsertSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/MergeSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/MergeSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/QuickSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/QuickSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/RadixSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/RadixSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/SelectSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/SelectSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/ShellSort.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/sort/ShellSort.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/ChangeString.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/ChangeString.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/CompareString.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/CompareString.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/CompareString1.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/CompareString1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/Print1ToMaxOfNdigits.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/Print1ToMaxOfNdigits.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/RegularExpression.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/RegularExpression.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/ReplaceChar.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/ReplaceChar.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/RuntimeConstantPool.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/RuntimeConstantPool.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/StringToInteger.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/string/StringToInteger.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/test/Demo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/test/Demo1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/BinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/BinaryTree.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/BinaryTreeNode.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/BinaryTreeNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/IsHasSubtree.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/IsHasSubtree.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/MirrorTree.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/MirrorTree.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/ParentBinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/ParentBinaryTree.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/ParentBinaryTreeNode.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/ParentBinaryTreeNode.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/RestructBinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/RestructBinaryTree.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/SymmetricalTree.class" afterPath="$PROJECT_DIR$/target/classes/cn/xuchunfa/tree/SymmetricalTree.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Concurrency/target/" />
+    <ignored path="$PROJECT_DIR$/Myconcurrency/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,14 +259,54 @@
     <SUITE FILE_PATH="coverage/Algorithm$ReplaceChar.coverage" NAME="ReplaceChar Coverage Results" MODIFIED="1532067648702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.xuchunfa.string.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$ParentBinaryTree.coverage" NAME="ParentBinaryTree Coverage Results" MODIFIED="1532433095422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.xuchunfa.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$BucketSort_test.coverage" NAME="BucketSort.test Coverage Results" MODIFIED="1555137001870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.xuchunfa.sort.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/Demo.java">
+      <file leaf-file-name="DeleteListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/DeleteListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="379">
+              <caret line="19" column="68" lean-forward="false" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindMiddleNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FindMiddleNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-578">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstCommonNode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FirstCommonNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -38,9 +317,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>preEnd</find>
+      <find>hashcode</find>
+      <find>hash</find>
+      <find>contain</find>
+      <find>matches</find>
+      <find>contains</find>
+      <find>acquir</find>
+      <find>replace</find>
+      <find>lock</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>postStart</replace>
+      <replace>postEnd</replace>
+      <replace>queue</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Algorithm\Concurrency</dir>
+      <dir>D:\Algorithm\Myconcurrency</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,38 +356,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/xuchunfa/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/cn/xuchunfa/string/StringToInteger.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/CompareString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/CompareString1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/StringToInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/ListNdoe.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/reverseKnode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/cn/xuchunfa/javapattern/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/President.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/USAPresident.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/OptDuplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/Duplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/Examination/src/JDTest.java" />
+        <option value="$PROJECT_DIR$/Examination/src/Test.java" />
+        <option value="$PROJECT_DIR$/Myconcurrency/src/main/java/TestProducerConsumer.java" />
+        <option value="$PROJECT_DIR$/Myconcurrency/src/main/java/TestCountDownLatch.java" />
+        <option value="$PROJECT_DIR$/Myconcurrency/src/main/java/TestCyclicBarrier.java" />
+        <option value="$PROJECT_DIR$/Myconcurrency/src/main/java/TestSemaphore.java" />
+        <option value="$PROJECT_DIR$/Myconcurrency/src/main/java/TestAtomicInteger.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/TestTreeSet.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/TestCollectionDelete.java" />
+        <option value="$PROJECT_DIR$/Examination/src/JDTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/UglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/FirstNoDuplicationChar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MinCombinationNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/InversePairNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FirstCommonNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/DuplicationVersion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/SearchIn2Array.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ChangeString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ReplaceChar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/Link.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/VerseLink.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/VerseLinkPrint.java" />
-        <option value="$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/SotedArrayDupTimes.java" />
+        <option value="$PROJECT_DIR$/Myconcurrency/src/main/java/TestVector.java" />
+        <option value="$PROJECT_DIR$/Myconcurrency/src/main/java/TestCOW.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/TestLinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/TestLRU.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/SortedArrayDupTimes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/IsAVLTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/Duplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/NumberAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/ContinuousPositiveSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/TestStringIntern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/classic/JosephCycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/bitOperation/BitArithmetic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/OptDuplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MultiArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/RegularExpression.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/TestReg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/StringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/JudgeNumric.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/EnterCycleNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/DeleteDuplicationNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/PrintTreeByLevel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/TreeUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/SerializeTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/CommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BSTksmallest.java" />
+        <option value="$PROJECT_DIR$/AllTest/src/TestTreeMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/StreamMedian.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/MaxValueInWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/MatrixPath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/JudgePathInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/RobortRange.java" />
       </list>
     </option>
   </component>
@@ -93,6 +415,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -104,17 +433,32 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Myconcurrency" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Myconcurrency" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Myconcurrency" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="junit:junit:4.11" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="141" />
-    <option name="y" value="493" />
-    <option name="width" value="1432" />
-    <option name="height" value="948" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -153,10 +497,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,33 +509,44 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xuchunfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xuchunfa" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,15 +554,31 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-    <property name="SearchEverywhereHistoryKey" value="hashma&#9;PSI&#9;JAVA://java.util.HashMap&#10;hashset&#9;PSI&#9;JAVA://java.util.HashSet&#10;Runnab&#9;PSI&#9;JAVA://java.lang.Runnable" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2067474" />
+    <property name="last_opened_file_path" value="D:/Analysis/blast_system" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="SearchEverywhereHistoryKey" value="deque&#9;PSI&#9;JAVA://java.util.Deque&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Arrays&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/Arrays.java&#10;Set&#9;PSI&#9;JAVA://java.util.Set&#10;TreeMa&#9;PSI&#9;JAVA://java.util.TreeMap&#10;TreeMap&#9;PSI&#9;JAVA://TestTreeMap&#10;String&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/lang/String.java&#10;LinkedL&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/LinkedList.java&#10;Array&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/ArrayList.java&#10;hashmap&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/HashMap.java&#10;ch&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/lang/Character.java&#10;Byte&#9;PSI&#9;JAVA://java.lang.Byte&#10;Char&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/lang/Character.java&#10;Double&#9;PSI&#9;JAVA://java.lang.Double&#10;Float&#9;PSI&#9;JAVA://java.lang.Float&#10;Long&#9;PSI&#9;JAVA://java.lang.Long&#10;Integer&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/lang/Integer.java&#10;String &#9;PSI&#9;JAVA://java.lang.String&#10;Stringb&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Count&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;hashMap&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/HashMap.java&#10;LruCache&#9;FILE&#9;jar://D:/jdk1.8.0_74/jre/lib/rt.jar!/sun/misc/LRUCache.class&#10;Lru&#9;PSI&#9;JAVA://com.mysql.jdbc.util.LRUCache&#10;ArrayList&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/ArrayList.java&#10;Vec&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/Vector.java&#10;List&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/List.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Map&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/Map.java&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Collection&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/Collection.java&#10;Coll&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/Collections.java&#10;Worker&#9;FILE&#9;jar://D:/jdk1.8.0_74/javafx-src.zip!/javafx/concurrent/Worker.java&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;AtomicReference&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;AtomicStampedReference&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/concurrent/atomic/AtomicStampedReference.java&#10;ReentrantR&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Cyclic&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Condi&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Th&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/lang/Thread.java&#10;lock&#9;PSI&#9;JAVA://java.util.concurrent.locks.Lock&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;ArrayLi&#9;FILE&#9;jar://D:/jdk1.8.0_74/src.zip!/java/util/ArrayList.java&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringBuf&#9;PSI&#9;JAVA://java.lang.StringBuffer" />
+    <property name="settings.editor.splitter.proportion" value="0.21751413" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Algorithm\TestModule\lib" />
+      <recent name="D:\Algorithm\Myconcurrency\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="cn.xuchunfa.concurrency" />
       <recent name="cn.xuchunfa.javapattern.singleton" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.xuchunfa.javapattern.proxy" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -224,7 +593,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree">
+  <component name="RunManager" selected="JUnit.RobortRange.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -232,93 +601,17 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.xuchunfa.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.tree.BinaryTree" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="Link" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.xuchunfa.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.linkedlist.Link" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.xuchunfa.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.array.MergeSortedArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="ReplaceChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RuntimeConstantPool" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="cn.xuchunfa.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.string.ReplaceChar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.xuchunfa.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.test.Test" />
+      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.string.RuntimeConstantPool" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -326,25 +619,10 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Algorithm" />
       <envs />
-    </configuration>
-    <configuration name="VerseLinkPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.xuchunfa.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.linkedlist.VerseLinkPrint" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -359,6 +637,151 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="BSTksmallest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.xuchunfa.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.xuchunfa.tree" />
+      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.tree.BSTksmallest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="JudgePathInMatrix.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.xuchunfa.backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.xuchunfa.backtrack" />
+      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.backtrack.JudgePathInMatrix" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MaxValueInWindow.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.xuchunfa.puzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.xuchunfa.puzzle" />
+      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.puzzle.MaxValueInWindow" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RobortRange.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.xuchunfa.backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.xuchunfa.backtrack" />
+      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.backtrack.RobortRange" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StreamMedian.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.xuchunfa.puzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.xuchunfa.puzzle" />
+      <option name="MAIN_CLASS_NAME" value="cn.xuchunfa.puzzle.StreamMedian" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TwinsLockTest.test (1)" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Myconcurrency" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TwinsLockTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -379,6 +802,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Concurrency" />
+      <envs />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -420,21 +855,22 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReplaceChar" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MergeSortedArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Link" />
-      <item index="4" class="java.lang.String" itemvalue="Application.VerseLinkPrint" />
-      <item index="5" class="java.lang.String" itemvalue="Application.BinaryTree" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TwinsLockTest.test (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RuntimeConstantPool" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BSTksmallest.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StreamMedian.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MaxValueInWindow.test" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.JudgePathInMatrix.test" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.RobortRange.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.VerseLinkPrint" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Link" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MergeSortedArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReplaceChar" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RobortRange.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.JudgePathInMatrix.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MaxValueInWindow.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.StreamMedian.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BSTksmallest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +881,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -468,49 +907,262 @@
       <workItem from="1531999265388" duration="9091000" />
       <workItem from="1532047815247" duration="20443000" />
       <workItem from="1532236466387" duration="21516000" />
-      <workItem from="1532307211829" duration="16806000" />
+      <workItem from="1532307211829" duration="17770000" />
+      <workItem from="1532395410811" duration="22237000" />
+      <workItem from="1532488882026" duration="864000" />
+      <workItem from="1532573076688" duration="6617000" />
+      <workItem from="1532654220785" duration="24470000" />
+      <workItem from="1532753632895" duration="22106000" />
+      <workItem from="1532827043240" duration="17113000" />
+      <workItem from="1533117972326" duration="555000" />
+      <workItem from="1533186051589" duration="13191000" />
+      <workItem from="1533273134015" duration="7233000" />
+      <workItem from="1533298108223" duration="4759000" />
+      <workItem from="1533356108638" duration="7774000" />
+      <workItem from="1533384938261" duration="1107000" />
+      <workItem from="1533446267493" duration="11167000" />
+      <workItem from="1533531554292" duration="6641000" />
+      <workItem from="1533554321684" duration="4302000" />
+      <workItem from="1533616166964" duration="23370000" />
+      <workItem from="1533703087276" duration="11119000" />
+      <workItem from="1533792215977" duration="7647000" />
+      <workItem from="1533818602371" duration="1671000" />
+      <workItem from="1533875409874" duration="8496000" />
+      <workItem from="1533900360994" duration="4876000" />
+      <workItem from="1533963951763" duration="6542000" />
+      <workItem from="1533976471950" duration="1954000" />
+      <workItem from="1533985940183" duration="7096000" />
+      <workItem from="1534135067372" duration="9561000" />
+      <workItem from="1534160496221" duration="5762000" />
+      <workItem from="1534223002612" duration="8770000" />
+      <workItem from="1534247177178" duration="5988000" />
+      <workItem from="1534308897390" duration="11318000" />
+      <workItem from="1534333638469" duration="696000" />
+      <workItem from="1534398563943" duration="8778000" />
+      <workItem from="1534484284853" duration="9994000" />
+      <workItem from="1534568737084" duration="12283000" />
+      <workItem from="1534653556035" duration="7515000" />
+      <workItem from="1534664575328" duration="2852000" />
+      <workItem from="1534742413458" duration="7383000" />
+      <workItem from="1534761987231" duration="10150000" />
+      <workItem from="1534834393937" duration="7936000" />
+      <workItem from="1534849367443" duration="7291000" />
+      <workItem from="1535025546424" duration="6129000" />
+      <workItem from="1535073834570" duration="18507000" />
+      <workItem from="1535111857448" duration="4043000" />
+      <workItem from="1535187456324" duration="8392000" />
+      <workItem from="1535259929331" duration="16192000" />
+      <workItem from="1535335261621" duration="17376000" />
+      <workItem from="1535420799655" duration="9424000" />
+      <workItem from="1535441576555" duration="5808000" />
+      <workItem from="1535512887571" duration="17629000" />
+      <workItem from="1535545849503" duration="3699000" />
+      <workItem from="1535591244218" duration="9346000" />
+      <workItem from="1535609273954" duration="11805000" />
+      <workItem from="1535681205644" duration="20418000" />
+      <workItem from="1535764660816" duration="10650000" />
+      <workItem from="1535781512902" duration="8493000" />
+      <workItem from="1535852235154" duration="21173000" />
+      <workItem from="1535936617025" duration="20200000" />
+      <workItem from="1536022788586" duration="16915000" />
+      <workItem from="1536196848600" duration="15797000" />
+      <workItem from="1536282474060" duration="524000" />
+      <workItem from="1536495859954" duration="857000" />
+      <workItem from="1537103151029" duration="2787000" />
+      <workItem from="1537150208590" duration="10270000" />
+      <workItem from="1537234766314" duration="283000" />
+      <workItem from="1541382237692" duration="3153000" />
+      <workItem from="1541642710303" duration="24335000" />
+      <workItem from="1541745917090" duration="606000" />
+      <workItem from="1542096017904" duration="12585000" />
+      <workItem from="1542157861870" duration="9251000" />
+      <workItem from="1542245732431" duration="31000" />
+      <workItem from="1553395363342" duration="6621000" />
+      <workItem from="1553473595596" duration="19977000" />
+      <workItem from="1553560866528" duration="16512000" />
+      <workItem from="1553647860442" duration="24947000" />
+      <workItem from="1553752966854" duration="8273000" />
+      <workItem from="1553820129860" duration="16698000" />
+      <workItem from="1553942341964" duration="7698000" />
+      <workItem from="1553996649859" duration="5949000" />
+      <workItem from="1554011422227" duration="3270000" />
+      <workItem from="1554079351100" duration="24694000" />
+      <workItem from="1554167333926" duration="30363000" />
+      <workItem from="1554252000103" duration="27370000" />
+      <workItem from="1554338080426" duration="5772000" />
+      <workItem from="1554357203157" duration="12150000" />
+      <workItem from="1554436749389" duration="13131000" />
+      <workItem from="1554462778066" duration="4649000" />
+      <workItem from="1554516475108" duration="10413000" />
+      <workItem from="1554598949548" duration="19672000" />
+      <workItem from="1554787093915" duration="1843000" />
+      <workItem from="1554892468605" duration="3315000" />
+      <workItem from="1554948041930" duration="4235000" />
+      <workItem from="1554980217852" duration="7778000" />
+      <workItem from="1555031617123" duration="12706000" />
+      <workItem from="1555123317630" duration="20067000" />
+      <workItem from="1555213029029" duration="1441000" />
+      <workItem from="1555224261737" duration="18611000" />
+      <workItem from="1555295216383" duration="24665000" />
+      <workItem from="1555376305718" duration="19452000" />
+      <workItem from="1555462229706" duration="22071000" />
+      <workItem from="1555548731689" duration="25778000" />
+      <workItem from="1555636725658" duration="23061000" />
+      <workItem from="1555763742583" duration="41000" />
+      <workItem from="1555997800061" duration="20376000" />
+      <workItem from="1556074402418" duration="4501000" />
+      <workItem from="1556191108142" duration="4902000" />
+      <workItem from="1556503271349" duration="7086000" />
+      <workItem from="1556674892090" duration="22287000" />
+      <workItem from="1556932706133" duration="7721000" />
+      <workItem from="1556969218349" duration="5208000" />
+      <workItem from="1557022225315" duration="15315000" />
+      <workItem from="1557053723632" duration="5222000" />
+      <workItem from="1557106214971" duration="14395000" />
+      <workItem from="1557196591850" duration="15457000" />
+      <workItem from="1557280008627" duration="4225000" />
+      <workItem from="1557296691613" duration="8886000" />
+      <workItem from="1557368514912" duration="9059000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MaxValueInWindow_test - 2019.05.08 at 14h 58m 29s.xml">
+      <configuration name="MaxValueInWindow.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxValueInWindow_test - 2019.05.08 at 15h 00m 26s.xml">
+      <configuration name="MaxValueInWindow.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxValueInWindow_test - 2019.05.08 at 15h 00m 54s.xml">
+      <configuration name="MaxValueInWindow.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxValueInWindow_test - 2019.05.08 at 15h 03m 06s.xml">
+      <configuration name="MaxValueInWindow.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobortRange_test - 2019.05.09 at 10h 43m 26s.xml">
+      <configuration name="RobortRange.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobortRange_test - 2019.05.09 at 10h 49m 14s.xml">
+      <configuration name="RobortRange.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobortRange_test - 2019.05.09 at 10h 55m 20s.xml">
+      <configuration name="RobortRange.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobortRange_test - 2019.05.09 at 10h 55m 37s.xml">
+      <configuration name="RobortRange.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobortRange_test - 2019.05.09 at 11h 06m 15s.xml">
+      <configuration name="RobortRange.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StreamMedian_test - 2019.05.08 at 10h 17m 54s.xml">
+      <configuration name="StreamMedian.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144064000" />
+    <option name="totallyTimeSpent" value="1378753000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16981132" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29291844" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20400943" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15879828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1736795" sideWeight="0.49785408" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29453894" sideWeight="0.50938565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2922355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25265643" sideWeight="0.49061432" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24329159" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18669528" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18240343" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22629696" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="2546" y="145" width="2218" height="1118" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12041885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30322003" sideWeight="0.5059727" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2922355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2077645" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24171889" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.101163834" sideWeight="0.49785408" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="2546" y="145" width="2218" height="1118" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18621308" sideWeight="0.49402732" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24329159" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18813993" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12041885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -519,403 +1171,418 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Test.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://D:/jdk1.8.0_74/src.zip!/java/util/regex/Matcher.java</url>
           <line>950</line>
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/sort/BucketSort.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="77" />
+      <option name="time" value="280" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="108" column="19" lean-forward="false" selection-start-line="108" selection-start-column="19" selection-end-line="108" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="60" column="30" lean-forward="false" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/StringToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="52" column="38" lean-forward="true" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/cn/xuchunfa/javapattern/Singleton.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-379">
-          <caret line="9" column="56" lean-forward="true" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/USAPresident.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/President.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/javapattern/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/ThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="907" column="0" lean-forward="false" selection-start-line="907" selection-start-column="0" selection-end-line="907" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="48" column="2" lean-forward="false" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <caret line="136" column="54" lean-forward="false" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="165" column="50" lean-forward="true" selection-start-line="165" selection-start-column="50" selection-end-line="165" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="594" column="47" lean-forward="true" selection-start-line="594" selection-start-column="47" selection-end-line="594" selection-end-column="47" />
+        <state relative-caret-position="-412">
+          <caret line="995" column="31" lean-forward="false" selection-start-line="995" selection-start-column="31" selection-end-line="995" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/io/PrintStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/JudgeNumric.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="721" column="0" lean-forward="false" selection-start-line="721" selection-start-column="0" selection-end-line="721" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk1.8.0_74/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="305" column="25" lean-forward="true" selection-start-line="305" selection-start-column="25" selection-end-line="305" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="132" column="29" lean-forward="false" selection-start-line="132" selection-start-column="29" selection-end-line="132" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/OptDuplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="14" selection-end-line="78" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/CompareString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-183">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/CompareString1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/regex/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="1053" column="41" lean-forward="true" selection-start-line="1053" selection-start-column="41" selection-end-line="1053" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2011">
-          <caret line="882" column="40" lean-forward="true" selection-start-line="882" selection-start-column="40" selection-end-line="882" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="551">
+          <caret line="552" column="16" lean-forward="false" selection-start-line="552" selection-start-column="16" selection-end-line="552" selection-end-column="16" />
           <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="false" />
+            <element signature="e#6320#6321#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/SearchIn2Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="492" column="30" lean-forward="false" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="2899" column="54" lean-forward="true" selection-start-line="2899" selection-start-column="54" selection-end-line="2899" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="3799" column="34" lean-forward="false" selection-start-line="3799" selection-start-column="34" selection-end-line="3799" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/DuplicationVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/Duplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="88" column="28" lean-forward="true" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ReplaceChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="60" column="2" lean-forward="false" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="567" column="23" lean-forward="true" selection-start-line="567" selection-start-column="23" selection-end-line="567" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="753" column="0" lean-forward="false" selection-start-line="753" selection-start-column="0" selection-end-line="753" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="698">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018/06/24/First/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1875">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/Link.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="627">
+          <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/VerseLinkPrint.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/classic/CombineNM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1667">
-          <caret line="111" column="39" lean-forward="true" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="599">
+          <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/test/Demo.java">
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/ChangeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245">
-          <caret line="381" column="45" lean-forward="true" selection-start-line="381" selection-start-column="45" selection-end-line="381" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="84" column="33" lean-forward="true" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="186" column="0" lean-forward="true" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+        <state relative-caret-position="254">
+          <caret line="655" column="16" lean-forward="false" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#372#373#0" expanded="false" />
-            <element signature="e#399#400#0" expanded="false" />
-            <element signature="e#1473#1489#0" expanded="false" />
-            <element signature="e#2291#2307#0" expanded="false" />
-            <element signature="e#3153#3169#0" expanded="false" />
+            <element signature="e#22786#22787#0" expanded="false" />
+            <element signature="e#22821#22822#0" expanded="false" />
+            <element signature="e#118405#118406#0" expanded="false" />
+            <element signature="e#118444#118445#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="-488">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/PostSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-752">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/RestructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="828" column="26" lean-forward="false" selection-start-line="828" selection-start-column="26" selection-end-line="828" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BSTlinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/ParentBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/ParentBinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/TreeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2867">
+          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllTest/src/TestTreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/queue/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="815" column="18" lean-forward="false" selection-start-line="815" selection-start-column="18" selection-end-line="815" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/BSTksmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/CommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/SerializeTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/tree/PrintTreeByLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/classic/CombineSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="53" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="517" column="25" lean-forward="false" selection-start-line="517" selection-start-column="25" selection-end-line="517" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="585" column="13" lean-forward="false" selection-start-line="585" selection-start-column="13" selection-end-line="585" selection-end-column="13" />
           <folding>
-            <element signature="e#529#530#0" expanded="false" />
-            <element signature="e#556#557#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#664#665#0" expanded="false" />
-            <element signature="e#691#692#0" expanded="false" />
-            <element signature="e#739#740#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#811#812#0" expanded="false" />
-            <element signature="e#839#840#0" expanded="false" />
-            <element signature="e#889#890#0" expanded="false" />
-            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#5256#5257#0" expanded="false" />
+            <element signature="e#5314#5315#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/cn/xuchunfa/concurrency/Demo.java">
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="284">
+          <caret line="702" column="24" lean-forward="false" selection-start-line="702" selection-start-column="24" selection-end-line="702" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="98" column="23" lean-forward="false" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#227755#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="216" column="6" lean-forward="false" selection-start-line="216" selection-start-column="6" selection-end-line="216" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="332" column="6" lean-forward="false" selection-start-line="332" selection-start-column="6" selection-end-line="332" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/MaxValueInWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="133" column="31" lean-forward="false" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/puzzle/StreamMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_74/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="279" column="13" lean-forward="false" selection-start-line="279" selection-start-column="13" selection-end-line="279" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/string/AllPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/MatrixPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/RobortRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/backtrack/JudgePathInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/EnterCycleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="995">
+          <caret line="81" column="9" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/DeleteDuplicationNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/VerseLinkPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/VerseLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/MergeSortedLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/DeleteListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="19" column="68" lean-forward="false" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FindMiddleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/array/ContinuousPositiveSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/xuchunfa/linkedlist/FirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -929,7 +1596,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2067474" />
               </list>
             </option>
           </splitter-proportions>
@@ -941,7 +1608,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2067474" />
               </list>
             </option>
           </splitter-proportions>
@@ -953,7 +1620,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2067474" />
               </list>
             </option>
           </splitter-proportions>
@@ -965,7 +1632,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2067474" />
               </list>
             </option>
           </splitter-proportions>
@@ -973,7 +1640,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Algorithm</last-edited>
+          <last-edited>Examination</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -990,7 +1657,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2067474" />
               </list>
             </option>
           </splitter-proportions>

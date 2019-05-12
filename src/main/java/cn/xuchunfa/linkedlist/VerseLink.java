@@ -8,21 +8,19 @@ package cn.xuchunfa.linkedlist;
 public class VerseLink {
 
     //直接遍历一遍
-    public static void verseLink(ListNode head){
+    public static ListNode verseLink(ListNode head){
         ListNode previous,current,post;
         previous = null;
         current = head;
 
         while (current != null){
             post = current.next;
-
-            if(post == null)
-                head = current;
-
             current.next = previous;
             previous = current;
             current = post;
         }
+        head = previous;
+        return head;
     }
 
     //递归反转

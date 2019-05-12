@@ -11,14 +11,12 @@ public class Count1 {
     public static int count2(int num){
 
         int count = 0;
-
         int flag = 1;
 
         while (flag != 0){
             if((num & flag) != 0){
                 count++;
             }
-
             flag = flag << 1;
         }
         return count;
@@ -35,7 +33,8 @@ public class Count1 {
         return count;
     }
 
+    //
     public static void main(String[] args){
-        System.out.println(Count1.count1(0));
+        System.out.println(Count1.count2(-3));
     }
 }

@@ -7,6 +7,17 @@ import java.util.Arrays;
  * @author: Xu chunfa
  * @create: 2018-07-28 19:25
  **/
+
+/*
+ *  时间复杂度：(k代表最高位数,例如100最高位为3)
+ *    最好：O(nk)
+ *    最坏：O(nk)
+ *    平均：O(nk)
+ *  空间复杂度：
+ *    O(1)
+ *  稳定性：
+ *    稳定
+ * */
 public class RadixSort {
 
     public static void radixSort(int[] a,int k){
